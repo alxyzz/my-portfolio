@@ -91,10 +91,10 @@ portfolio:
     - name: VR4VET Construction 
       image: 'images/portfolio/consector.png'
       url: https://www.vr4vet.eu/construction/#about
-      description: A Meta Quest 2 VR Construction Scenario designed to give jobseekers an idea of what a typical day at work would look like, through assembling a modular wall frame through all the layers required, as well as the construction of a roof.
+      description: A Meta Quest 2 VR Construction Scenario designed to give jobseekers an idea of what a typical day at work would look like, through assembling a modular wall frame through all the layers required, as well as the construction of a roof. [Source here.](https://github.com/vr4vet/Construction-sector)
 
     - name: Project BUNG
       image: 'images/portfolio/bung.png'
       url: https://www.social-mind.gr/projects/environmental/bung
-      description: Project BUNG was approved in the framework of the ERASMUS+ project, KA202 Strategic Partnerships for vocational education and training, and aimed at developing zero energy building skills and encouraging energy efficient behavior among building occupants through the development of an NZEB (Nearly Zero Energy Building) learning game.
-
+      description: Project BUNG was approved in the framework of the ERASMUS+ project, KA202 Strategic Partnerships for vocational education and training, and aimed at developing zero energy building skills and encouraging energy efficient behavior among building occupants through the development of an NZEB (Nearly Zero Energy Building) learning game. [Source here.](https://github.com/alxyzz/BUNG_Project)
+)
