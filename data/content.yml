@@ -1,0 +1,100 @@
+########################## hero area ##########################
+hero:
+  title: "I'm Alex"
+
+  # animated text loop
+  occupations:
+    - 'Game Developer'
+    - 'Software Engineer'
+    - 'Video Editor'
+
+  # hero background image
+  bg_image: 'images/test.avif'
+  # optional mobile breakpoint background
+  # mobile_bg_image: 'images/gus_small.jpg'
+
+########################### About ##################################
+about:
+  enable: true
+  #image: 'images/profile.jpg'
+  #title: 'Viam inveniam aut faciam'
+  content: Welcome. Scroll down for my work experience and portfolio. You can contact me on [LinkedIn, Github, or by email](#contact)!
+  button:
+    enable: true
+    label: 'DOWNLOAD MY RESUME'
+    link: https://drive.google.com/file/d/1vhlw1RCpexvyfje83cOAPUy983y7zPRm/view?usp=sharing
+    icon: 'fa-download'
+
+###########################3 Experience ##############################
+experience:
+  enable: true
+  title: 'EXPERIENCE'
+
+  experience_list:
+    - name: Software Engineer
+      company: VR4VET
+      duration: 'Educational, VR, C#, Unity'
+      content: Virtual Reality for Vocational Education and Training, an European Union Erasmus Plus program.Developed the Cologne Game Lab contribution to the international VR4VET project, specifically the Construction Sector application. Implemented a Virtual Reality Construction Scenario designed to give jobseekers an idea of what a typical day at work would look like, through assembling a modular wall frame through all the layers required, as well as the construction of a roof. In collaboration with an international team, provided feedback and further developed the VR4VET SDK. Tracked and discussed progress using Trello, internally designed the project using Notion. Collaborated with UI designer and 3D artist on a weekly basis.
+
+    - name: 
+      company: BUNG
+      duration: 'Educational, C#, Unity'
+      content: BUNG is an Erasmus+ European project aimed at delivering knowledge, developing zero energy building skills, and encouraging energy-efficient behavior amongst building occupants. For this project, I developed an [nZEB](https://energy.ec.europa.eu/topics/energy-efficiency/energy-performance-buildings/nearly-zero-energy-and-zero-emission-buildings_en) learning game, implementing technical and content specifications from real experts during the development phase. Singlehandedly responsible for the coding aspect of the development.  Developed and tested the BUNG learning game on Windows and Mac. Realised the technical part of the translation of the release in French, German, Slovenian, Greek, Italian. [More info here.](https://www.social-mind.gr/projects/environmental/bung)
+      
+    - name: Student
+      company: Cologne Game Lab - Cologne University of Applied Sciences
+      duration: 'March 2021-2025'
+      content: 	Majoring in Game Programming. Worked on various Unity/C# projects, both independently and in collaboration with colleagues. Game AI, Networking, Shaders, Basic Game Design and Game Arts, Media and Market studies & research.
+      
+    - name: Apprentice Programmer
+      duration: 'August 2020 - September 2021'
+      content: Deepened my Cs knowledge in various projects, tracked and discussed in 1-2-1 project meetings. Worked in a project management environment with task management tools such as Trello, Notion, ClickUp. Worked extensively within a Visual Studio environment. Researched multiple topics from game design, aesthetics, to networking, databases, mathematics.
+
+
+    - name: Junior Programmer
+      duration: 'January 2020 - August 2020'
+      content: 	Hands on experience with a local programming branch working for an American software company. I have experienced firsthand new project introductions, tracking meetings and business logic. Had first contact with technologies such as CSharp, PHP, HTML, CSS.
+
+############################### Skill #################################
+skill:
+  enable: true
+  title: 'Skills'
+  showpercent: false
+  skill_list:
+    - name: 'Unity, 3D & 2D'
+    - name: 'C#, C++'
+    - name: 'Collaboration & Version Control via Git'
+    - name: 'MySQL, PostgreSQL, SQLite'
+    - name: 'WinForms'
+    - name: 'Multimedia editing via DaVinci Resolve, Audacity, GIMP' 
+    - name: 'HTML, CSS, Javascript' 
+
+######################### funfacts #############################3
+funfacts:
+  enable: true
+  funfacts_list:
+    - name: 'CUPS PER DAY'
+      image: 'images/icons/coffee.png'
+      count: '2'
+
+    - name: 'Games Shipped'
+      image: 'images/icons/web-development.png'
+      count: '2'
+
+
+############################# portfolio ################################
+
+portfolio:
+  enable: true
+  title: 'Shipped Games'
+  portfolio_list:
+    - name: VR4VET Construction 
+      image: 'images/portfolio/consector.png'
+      url: https://www.vr4vet.eu/construction/#about
+      description: A Meta Quest 2 VR Construction Scenario designed to give jobseekers an idea of what a typical day at work would look like, through assembling a modular wall frame through all the layers required, as well as the construction of a roof.
+
+    - name: Project BUNG
+      image: 'images/portfolio/bung.png'
+      url: https://www.social-mind.gr/projects/environmental/bung
+      description: Project BUNG was approved in the framework of the ERASMUS+ project, KA202 Strategic Partnerships for vocational education and training, and aimed at developing zero energy building skills and encouraging energy efficient behavior among building occupants through the development of an NZEB (Nearly Zero Energy Building) learning game.
+

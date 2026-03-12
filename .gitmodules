@@ -1,0 +1,9 @@
+[submodule "themes/deadsimple"]
+	path = themes/deadsimple
+	url = https://github.com/barklan/hugo-dead-simple.git
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "themes/port-hugo"]
+	path = themes/port-hugo
+	url = https://github.com/tylersayshi/port-hugo.git
